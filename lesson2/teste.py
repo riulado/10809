@@ -1,1 +1,1 @@
-print("És Burro!")
+print("És Inteligente!")
